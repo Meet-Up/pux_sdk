@@ -1,4 +1,4 @@
-# PuxApi
+# PuxSDK
 
 TODO: Write a gem description
 
@@ -6,7 +6,7 @@ TODO: Write a gem description
 
 Add this line to your application's Gemfile:
 
-    gem 'pux_api'
+    gem 'pux_sdk'
 
 And then execute:
 
@@ -14,7 +14,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install pux_api
+    $ gem install pux_sdk
 
 ## Usage
 
