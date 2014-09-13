@@ -42,7 +42,7 @@ module PuxSDK
 
     # inputFile での送信(multipart/form-data)
     # in_file : ファイルパス
-    def post_file_send(in_file)
+    def post_file_send(in_file, to_hash=true, post=false)
       url = REQ_URL + REQ_PATH
       res = ''
       # FileをブロックしてOpen
