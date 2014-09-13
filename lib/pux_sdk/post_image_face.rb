@@ -64,7 +64,7 @@ module PuxSDK
           puts(e)
         end
       end
-      self.get_response(response, to_hash)
+      self.get_response(res, to_hash)
     end
 
     def get_response(response, to_hash)
